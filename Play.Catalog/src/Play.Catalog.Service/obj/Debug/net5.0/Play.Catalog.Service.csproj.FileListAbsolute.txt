@@ -35,3 +35,15 @@ D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\ob
 D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
 D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
