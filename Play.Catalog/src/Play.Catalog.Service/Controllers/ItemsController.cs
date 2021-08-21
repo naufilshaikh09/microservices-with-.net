@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Play.Catalog.Service.Dtos;
 using Play.Catalog.Service.Entities;
-using Play.Catalog.Service.Repositories;
-
+using Play.Common;
 namespace Play.Catalog.Service.Controllers
 {
     // https://localhost:5001/items
@@ -15,9 +14,9 @@ namespace Play.Catalog.Service.Controllers
     [Route("items")]
     public class ItemController : ControllerBase
     {
-        private readonly IItemsRepository _itemsRepository;
+        private readonly IRepository<Item> _itemsRepository;
 
-        public ItemController(IItemsRepository itemsRepository)
+        public ItemController(IRepository<Item> itemsRepository)
         {
             this._itemsRepository = itemsRepository;
         }
