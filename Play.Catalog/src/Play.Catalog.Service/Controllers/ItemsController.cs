@@ -22,13 +22,13 @@ namespace Play.Catalog.Service.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<ItemDto>> GetAsync()
+        public async Task<ActionResult<IEnumerable<ItemDto>>> GetAsync()
         {
             try
             {
                 var items = (await _itemsRepository.GetAllAsync())
                                             .Select(x => x.AsDto());
-                return items;
+                return Ok(items);
             }
             catch (Exception ex)
             {
