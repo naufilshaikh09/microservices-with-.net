@@ -52,3 +52,4 @@ D:\Personal\Git\microservices-with-.net\Play.Inventory\src\Play.Inventory.Servic
 D:\Personal\Git\microservices-with-.net\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
 D:\Personal\Git\microservices-with-.net\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Polly.dll
 D:\Personal\Git\microservices-with-.net\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Polly.Extensions.Http.dll
+D:\Personal\Git\microservices-with-.net\Play.Inventory\src\Play.Inventory.Service\bin\Debug\net5.0\Play.Catalog.Contracts.dll

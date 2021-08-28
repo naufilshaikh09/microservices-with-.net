@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7f4gvUG/xb5aydumVvM6hf2EMmS82jO+EB5f5YJ2o/Q7vaYQH9dtnAZrGdYy5m0wrHR/5YKo6VTTNCjmEb8q6w==",
+  "dgSpecHash": "5T/N55xJ4eXLAayJNN8PCPtDtB5u3k7cnkriQoKMOpmpWzXeblBjjKUUqj3R6ZXCmqauhrprEgEDwmtWvAnbkw==",
   "success": true,
   "projectFilePath": "D:\\Personal\\Git\\microservices-with-.net\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
@@ -128,7 +128,8 @@
     "C:\\Users\\snauf\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\system.xml.readerwriter\\4.3.1\\system.xml.readerwriter.4.3.1.nupkg.sha512",
-    "C:\\Users\\snauf\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\snauf\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\snauf\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512"
   ],
   "logs": []
 }

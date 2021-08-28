@@ -57,3 +57,5 @@ D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bi
 D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Common.dll
 D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+D:\Personal\Git\microservices-with-.net\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.pdb

@@ -34,6 +34,7 @@
       "Play.Inventory.Service/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Http.Polly": "5.0.1",
+          "Play.Catalog.Contracts": "1.0.0",
           "Play.Common": "1.0.2",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -723,6 +724,17 @@
         },
         "compile": {
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
+        }
+      },
+      "Play.Catalog.Contracts/1.0.0": {
+        "runtime": {
+          "lib/net5.0/Play.Catalog.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/Play.Catalog.Contracts.dll": {}
         }
       },
       "Play.Common/1.0.2": {
@@ -3397,6 +3409,13 @@
       "sha512": "sha512-5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
+    },
+    "Play.Catalog.Contracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HMla4rIj4uWA5mM8IfUr3AYI7hVZ8dwvl3s+3tn2UA9EQZ0UnluEp3afdJiSIm0nkgM2KkLemXZozTyjdDDtsg==",
+      "path": "play.catalog.contracts/1.0.0",
+      "hashPath": "play.catalog.contracts.1.0.0.nupkg.sha512"
     },
     "Play.Common/1.0.2": {
       "type": "package",

@@ -501,6 +501,15 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
+      "Play.Catalog.Contracts/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Play.Catalog.Contracts.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Play.Catalog.Contracts.dll": {}
+        }
+      },
       "Play.Common/1.0.2": {
         "type": "package",
         "dependencies": {
@@ -2478,6 +2487,17 @@
         "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
         "newtonsoft.json.bson.1.0.1.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
+      ]
+    },
+    "Play.Catalog.Contracts/1.0.0": {
+      "sha512": "HMla4rIj4uWA5mM8IfUr3AYI7hVZ8dwvl3s+3tn2UA9EQZ0UnluEp3afdJiSIm0nkgM2KkLemXZozTyjdDDtsg==",
+      "type": "package",
+      "path": "play.catalog.contracts/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net5.0/Play.Catalog.Contracts.dll",
+        "play.catalog.contracts.1.0.0.nupkg.sha512",
+        "play.catalog.contracts.nuspec"
       ]
     },
     "Play.Common/1.0.2": {
@@ -6081,6 +6101,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.Extensions.Http.Polly >= 5.0.1",
+      "Play.Catalog.Contracts >= 1.0.0",
       "Play.Common >= 1.0.2",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -6092,11 +6113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectUniqueName": "d:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "projectName": "Play.Inventory.Service",
-      "projectPath": "D:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+      "projectPath": "d:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
       "packagesPath": "C:\\Users\\snauf\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
+      "outputPath": "d:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6133,6 +6154,10 @@
           "Microsoft.Extensions.Http.Polly": {
             "target": "Package",
             "version": "[5.0.1, )"
+          },
+          "Play.Catalog.Contracts": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "Play.Common": {
             "target": "Package",

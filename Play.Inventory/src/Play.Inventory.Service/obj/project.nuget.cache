@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3HiJmHGve6pAmxYe5mBzIHjZWnDohJ1i+4vOf4jjU4gGcN+ZG5nng/Ksb440fDg5blz3u5DPA6Vvf2VxC9BF2Q==",
+  "dgSpecHash": "tE2Y2kGt33ELx2gaVkMSCAljWr1OLutxw0qt+3lg4RtQjPKqZMp8S6ourdwGQMkezjpLj7IwgiwBMKg8K0pZMw==",
   "success": true,
   "projectFilePath": "D:\\Personal\\Git\\microservices-with-.net\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,7 @@
     "C:\\Users\\snauf\\.nuget\\packages\\newid\\3.0.3\\newid.3.0.3.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\snauf\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\play.common\\1.0.2\\play.common.1.0.2.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\snauf\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
